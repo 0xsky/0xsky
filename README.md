@@ -1,4 +1,4 @@
-### Personal Data🤔
+### Personal Data😄
 ![ENEmy's github stats](https://github-readme-stats.vercel.app/api?username=0xsky&show_icons=true&theme=dark&count_private=true)
 ![ENEmy's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xsky&layout=compact&theme=dark&hide=css,html)
 
