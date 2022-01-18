@@ -1,14 +1,8 @@
-### Personal Data😄
-![ENEmy's github stats](https://github-readme-stats.vercel.app/api?username=0xsky&show_icons=true&theme=dark&count_private=true)
-![ENEmy's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xsky&layout=compact&theme=dark&hide=css,html)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ficowshen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-## Contact 📫
-
-Personal Website : https://0xsky.com/
-
-E-mail : guozhw@gmail.com
-
+### Hello ~ 👋
 - 🔭 I’m currently working on webrtc
+- 
 - 🌱 I’m currently learning RUST
 <!--
 **0xsky/0xsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
